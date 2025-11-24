@@ -1,4 +1,6 @@
 Student Success Platform (SSP) 🎓
+
+
 A Python-based CLI tool designed to replace the chaos of paper records with clean, digital logic.
 
 📖 Overview
